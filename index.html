@@ -9,21 +9,21 @@
 	
 	function odliczanie()
 	{
-		var dzisiaj = new Date();//obiekat Date 
+		var dzisiaj = new Date();
 		
 		var dzien = dzisiaj.getDate();
 		var miesiac = dzisiaj.getMonth()+1;
 		var rok = dzisiaj.getFullYear();
 		var milisekundy = dzisiaj.getTime();
 		
-		var end = new Date("06/25/2021");//data wydarzenia
+		var end = new Date("31/12/2021");
 		var endDzien = end.getDate();
 		var endMiesiac = end.getMonth()+1;
 		var endRok = end.getFullYear();
 		var milisekundy2 = end.getTime();
 		
-		var pozostalo = milisekundy2 - milisekundy; //obliczamy ile milisekund pozostało do wydarzenia
-		var dni = Math.floor(pozostalo/86400000); //obliczamy liczbe dni do wydarzenia
+		var pozostalo = milisekundy2 - milisekundy; 
+		var dni = Math.floor(pozostalo/86400000); 
 		
 	
 		
