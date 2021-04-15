@@ -18,29 +18,29 @@ color: white;
 #aktualnaData
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid black;
 }
 #dniDoWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid black;
 }
 #doWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid black;
 }
 
 #dataWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid black;
 }
 
 #description
 {
 	text-align: center;
-	border: 3px solid #808080;
+	border: 3px solid black;
 }
 
 #footer
