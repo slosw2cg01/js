@@ -1,17 +1,17 @@
 body
 {
-background-color: 	#a4111d;
+background-color: 	#f4d77d;
 font-family: Verdana;
 font-size: 24px;
 color: white;
 }
 #container
 {
-	padding-top: 50px;
+	padding-top: 80px;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom:50px;
-	background-color: #C0C0C0;
+	background-color: #f4d77d;
 	margin: auto;
     width: 1000px;
 }
